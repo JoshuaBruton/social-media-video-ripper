@@ -9,13 +9,16 @@ Simple but elegant CLI script that prompts the user for a url to a video on pret
 
 
 ~ $ git clone https://github.com/BRuDesDev/social-media-video-ripper.git  # Clone the repo to your local machine.
+
 ~ $ cd social-media-video-ripper # Enter the newly cloned folder.
 
 ~ $ python3 -m venv .venv  # Create Python virtual environment  
+
 ~ $ source .venv/bin/activate  # Activate the virtual environment
 
 ### Now that we are inside our Python virtual environment, we can install our requirements using pip
 ~ $ pip install -r requirements.txt  
+
 ### Then all you have to do:
 ~ $ python3 sm_dl.py 
 
