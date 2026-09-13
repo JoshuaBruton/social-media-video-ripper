@@ -19,6 +19,6 @@ Simple but elegant CLI script that prompts the user for a url to a video on pret
 ### Then all you have to do:
 ~ $ python3 sm_dl.py 
 
-The user can then copy & paste any video 'url' you wish to save - press Enter - you will be asked for one more input, and that's for you to name the video file. Once you enter that, you can see the download in the terminal as well as a finished message.
+The user can then copy & paste any video 'url' they wish to save - press Enter - you will be asked for one more input, and that's for you to name the video file. Once you enter that, you can see the download in the terminal as well as a finished message.
 
 You will find the downloaded video in a folder called **videos** in the apps root dir, unless you changed that within the script.
